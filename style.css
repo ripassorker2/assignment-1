@@ -1,0 +1,51 @@
+#top-header {
+    padding-top: 70px;
+    width: auto;
+    height: 450px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-image: url(img2.jpg);
+    background-size: cover;
+}
+
+a {
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 7px;
+}
+
+#donate-today {
+    text-align: center;
+    font-size: 20px;
+}
+
+.flex {
+    display: flex;
+    height: 200px;
+    margin-top: 0px;
+}
+
+.serioul {
+    text-align: center;
+    margin-left: 200px;
+    padding: 0px;
+    font-size: 20px;
+    color: gray;
+}
+
+#border {
+    border: 2px solid orangered;
+    padding: 27px;
+    border-radius: 8px;
+    background-color: peachpuff;
+    color: black;
+}
+
+#middle {
+    text-align: center;
+    color: gray;
+}
